@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Phu Mot",
+    "age": "21",
+    "gender": "Nam",
+    "pointIn": "32",
+    "pointAvg": "3"
+  },
+  {
+    "id": 2,
+    "name": "Phu Hai",
+    "age": "21",
+    "gender": "Nam",
+    "pointIn": "22",
+    "pointAvg": "2"
+  },
+  {
+    "id": 3,
+    "name": "Phu Ba",
+    "age": "28",
+    "gender": "Nu",
+    "pointIn": "30",
+    "pointAvg": "8"
+  }
+]
